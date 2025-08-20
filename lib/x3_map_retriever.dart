@@ -2,7 +2,7 @@ import 'package:x3map/entity/entity.dart';
 import 'package:x3map/html/html.dart';
 
 final class X3MapRetriever {
-  static const _forbiddenBypassDelayMs = 2000;
+  static const _forbiddenBypassDelayMs = 2500;
 
   X3MapRetriever._();
 

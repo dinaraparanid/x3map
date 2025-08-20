@@ -1,3 +1,4 @@
+import 'package:dartx/dartx.dart';
 import 'package:html/dom.dart';
 import 'package:x3map/entity/entity.dart';
 
@@ -11,14 +12,13 @@ final class SectorPageParser {
   }) {
     final dataRows = html
       .querySelectorAll('tr[class="l0"]')
-      .map((tableRowElem) => tableRowElem.children[1])
       .toList(growable: false);
 
-    final race = _parseRaceTitle(dataRows[0].text);
-    final northGate = sectors[_parseGateLink(dataRows[5])]?.link;
-    final southGate = sectors[_parseGateLink(dataRows[6])]?.link;
-    final eastGate = sectors[_parseGateLink(dataRows[7])]?.link;
-    final westGate = sectors[_parseGateLink(dataRows[8])]?.link;
+    final race = _parseRaceTitle(dataRows[0].children[1].text);
+    final northGate = sectors[_findSectorLink(name: 'северные врата', rows: dataRows)]?.link;
+    final southGate = sectors[_findSectorLink(name: 'южные врата', rows: dataRows)]?.link;
+    final eastGate = sectors[_findSectorLink(name: 'восточные врата', rows: dataRows)]?.link;
+    final westGate = sectors[_findSectorLink(name: 'западные врата', rows: dataRows)]?.link;
 
     return sector.copyWith(
       race: race,
@@ -44,8 +44,18 @@ final class SectorPageParser {
     _ => Race.unclaimed,
   };
 
-  static SectorLink? _parseGateLink(Element rowItem) {
-    final value = rowItem.querySelector('a[href]')?.attributes['href'];
+  static SectorLink? _findSectorLink({
+    required String name,
+    required List<Element> rows,
+  }) {
+    final value = rows
+      .firstOrNullWhere((row) =>
+        row.firstChild?.text?.toLowerCase().contains(name) == true,
+      )
+      ?.children[1]
+      .querySelector('a[href]')
+      ?.attributes['href'];
+
     return value != null ? SectorLink(value) : null;
   }
 }

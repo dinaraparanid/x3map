@@ -1,0 +1,2153 @@
+[
+  {
+    "title":"Пояс Койпера",
+    "link":"sector.php?c=MjI1NDEzMQ",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=ODQ2MTQ5MzE",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Уран 2",
+    "link":"sector.php?c=MjgwMzIwMw",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=ODUxNjQwMDM",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Титан",
+    "link":"sector.php?c=MzA3NzczOQ",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=ODU0Mzg1Mzk",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Облако Оорта",
+    "link":"sector.php?c=ODQzNDAzOTU",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=MzMxNDIyNzk1",
+    "westGate":null,
+    "eastGate":"sector.php?c=ODQ2MTQ5MzE"
+  },
+  {
+    "title":"Плутон",
+    "link":"sector.php?c=ODQ2MTQ5MzE",
+    "race":"terran",
+    "northGate":"sector.php?c=MjI1NDEzMQ",
+    "southGate":null,
+    "westGate":"sector.php?c=ODQzNDAzOTU",
+    "eastGate":"sector.php?c=ODQ4ODk0Njc"
+  },
+  {
+    "title":"Нептун",
+    "link":"sector.php?c=ODQ4ODk0Njc",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=NzQ1NDIzMDgz",
+    "westGate":"sector.php?c=ODQ2MTQ5MzE",
+    "eastGate":"sector.php?c=ODUxNjQwMDM"
+  },
+  {
+    "title":"Уран",
+    "link":"sector.php?c=ODUxNjQwMDM",
+    "race":"terran",
+    "northGate":"sector.php?c=MjgwMzIwMw",
+    "southGate":"sector.php?c=MTY3NTI0ODAz",
+    "westGate":"sector.php?c=ODQ4ODk0Njc",
+    "eastGate":"sector.php?c=ODU0Mzg1Mzk"
+  },
+  {
+    "title":"Сатурн",
+    "link":"sector.php?c=ODU0Mzg1Mzk",
+    "race":"terran",
+    "northGate":"sector.php?c=MzA3NzczOQ",
+    "southGate":"sector.php?c=MTY3Nzk5MzM5",
+    "westGate":"sector.php?c=ODUxNjQwMDM",
+    "eastGate":"sector.php?c=ODY1MzY2ODM"
+  },
+  {
+    "title":"Сатурн 2",
+    "link":"sector.php?c=ODY1MzY2ODM",
+    "race":"terran",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=ODU0Mzg1Mzk",
+    "eastGate":"sector.php?c=ODY4MTEyMTk"
+  },
+  {
+    "title":"Сатурн 3",
+    "link":"sector.php?c=ODY4MTEyMTk",
+    "race":"terran",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=ODY1MzY2ODM",
+    "eastGate":null
+  },
+  {
+    "title":"Меркурий",
+    "link":"sector.php?c=ODU3MTMwNzU",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=MTY4MDczODc1",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=MzMxNDIyNzk1",
+    "race":"terran",
+    "northGate":"sector.php?c=ODQzNDAzOTU",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MzMxNjk3MzMx"
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=MzMxNjk3MzMx",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=NDE0MDU4MTMx",
+    "westGate":"sector.php?c=MzMxNDIyNzk1",
+    "eastGate":null
+  },
+  {
+    "title":"Уран 3",
+    "link":"sector.php?c=MTY3NTI0ODAz",
+    "race":"terran",
+    "northGate":"sector.php?c=ODUxNjQwMDM",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Юпитер",
+    "link":"sector.php?c=MTY3Nzk5MzM5",
+    "race":"terran",
+    "northGate":"sector.php?c=ODU0Mzg1Mzk",
+    "southGate":"sector.php?c=MjUwMTYwMTM5",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTY4ODk3NDgz"
+  },
+  {
+    "title":"Юпитер 2",
+    "link":"sector.php?c=MTY4ODk3NDgz",
+    "race":"terran",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTY3Nzk5MzM5",
+    "eastGate":"sector.php?c=MTY5MTcyMDE5"
+  },
+  {
+    "title":"Юпитер 3",
+    "link":"sector.php?c=MTY5MTcyMDE5",
+    "race":"terran",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTY4ODk3NDgz",
+    "eastGate":null
+  },
+  {
+    "title":"Венера",
+    "link":"sector.php?c=MTY4MDczODc1",
+    "race":"terran",
+    "northGate":"sector.php?c=ODU3MTMwNzU",
+    "southGate":"sector.php?c=MjUwNDM0Njc1",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTY4MzQ4NDEx"
+  },
+  {
+    "title":"Луна",
+    "link":"sector.php?c=MTY4MzQ4NDEx",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=MjUwNzA5MjEx",
+    "westGate":"sector.php?c=MTY4MDczODc1",
+    "eastGate":null
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=NDEzNzgzNTk1",
+    "race":"terran",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NDE0MDU4MTMx"
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=NDE0MDU4MTMx",
+    "race":"terran",
+    "northGate":"sector.php?c=MzMxNjk3MzMx",
+    "southGate":null,
+    "westGate":"sector.php?c=NDEzNzgzNTk1",
+    "eastGate":null
+  },
+  {
+    "title":"Пояс астероидов",
+    "link":"sector.php?c=MjUwMTYwMTM5",
+    "race":"terran",
+    "northGate":"sector.php?c=MTY3Nzk5MzM5",
+    "southGate":"sector.php?c=MzMzMDcwMDEx",
+    "westGate":null,
+    "eastGate":"sector.php?c=MjUwNDM0Njc1"
+  },
+  {
+    "title":"Марс",
+    "link":"sector.php?c=MjUwNDM0Njc1",
+    "race":"terran",
+    "northGate":"sector.php?c=MTY4MDczODc1",
+    "southGate":null,
+    "westGate":"sector.php?c=MjUwMTYwMTM5",
+    "eastGate":null
+  },
+  {
+    "title":"Земля",
+    "link":"sector.php?c=MjUwNzA5MjEx",
+    "race":"terran",
+    "northGate":"sector.php?c=MTY4MzQ4NDEx",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Край еретиков",
+    "link":"sector.php?c=MzMzMDcwMDEx",
+    "race":"terran",
+    "northGate":"sector.php?c=MjUwMTYwMTM5",
+    "southGate":"sector.php?c=NDE1NDMwODEx",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Королевский тупик",
+    "link":"sector.php?c=NTc4NDM",
+    "race":"boron",
+    "northGate":null,
+    "southGate":"sector.php?c=ODI0MTg2NDM",
+    "westGate":null,
+    "eastGate":"sector.php?c=MzMyMzc5"
+  },
+  {
+    "title":"Дрейф Ролка",
+    "link":"sector.php?c=MzMyMzc5",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NTc4NDM",
+    "eastGate":"sector.php?c=NjA2OTE1"
+  },
+  {
+    "title":"Пространство королевы",
+    "link":"sector.php?c=NjA2OTE1",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MzMyMzc5",
+    "eastGate":"sector.php?c=ODgxNDUx"
+  },
+  {
+    "title":"Граница Менелайи",
+    "link":"sector.php?c=ODgxNDUx",
+    "race":"boron",
+    "northGate":null,
+    "southGate":"sector.php?c=ODMyNDIyNTE",
+    "westGate":"sector.php?c=NjA2OTE1",
+    "eastGate":"sector.php?c=MTE1NTk4Nw"
+  },
+  {
+    "title":"Баксоид Босса",
+    "link":"sector.php?c=MTE1NTk4Nw",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=ODM1MTY3ODc",
+    "westGate":"sector.php?c=ODgxNDUx",
+    "eastGate":"sector.php?c=MTQzMDUyMw"
+  },
+  {
+    "title":"Доход Телади",
+    "link":"sector.php?c=MTQzMDUyMw",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=ODM3OTEzMjM",
+    "westGate":"sector.php?c=MTE1NTk4Nw",
+    "eastGate":"sector.php?c=MTcwNTA1OQ"
+  },
+  {
+    "title":"Семья Ви",
+    "link":"sector.php?c=MTcwNTA1OQ",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=ODQwNjU4NTk",
+    "westGate":"sector.php?c=MTQzMDUyMw",
+    "eastGate":"sector.php?c=ODU5ODc2MTE"
+  },
+  {
+    "title":"Убежище",
+    "link":"sector.php?c=MzYyNjgxMQ",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=ODU5ODc2MTE",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=NDQ1MDQxOQ",
+    "race":"unclaimed",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NDcyNDk1NQ"
+  },
+  {
+    "title":"Ксенонский сектор 534",
+    "link":"sector.php?c=NDcyNDk1NQ",
+    "race":"xenon",
+    "northGate":null,
+    "southGate":"sector.php?c=ODcwODU3NTU",
+    "westGate":"sector.php?c=NDQ1MDQxOQ",
+    "eastGate":null
+  },
+  {
+    "title":"Ксенонский сектор 596",
+    "link":"sector.php?c=NTI3NDAyNw",
+    "race":"xenon",
+    "northGate":null,
+    "southGate":"sector.php?c=ODc2MzQ4Mjc",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Три мира",
+    "link":"sector.php?c=ODI0MTg2NDM",
+    "race":"argon",
+    "northGate":"sector.php?c=NTc4NDM",
+    "southGate":"sector.php?c=MTY0Nzc5NDQz",
+    "westGate":null,
+    "eastGate":"sector.php?c=ODI2OTMxNzk"
+  },
+  {
+    "title":"Круг силы",
+    "link":"sector.php?c=ODI2OTMxNzk",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=MTY1MDUzOTc5",
+    "westGate":"sector.php?c=ODI0MTg2NDM",
+    "eastGate":"sector.php?c=ODI5Njc3MTU"
+  },
+  {
+    "title":"Мемориал Антигона",
+    "link":"sector.php?c=ODI5Njc3MTU",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=MTY1MzI4NTE1",
+    "westGate":"sector.php?c=ODI2OTMxNzk",
+    "eastGate":null
+  },
+  {
+    "title":"Судьба Ролка",
+    "link":"sector.php?c=ODMyNDIyNTE",
+    "race":"boron",
+    "northGate":"sector.php?c=ODgxNDUx",
+    "southGate":"sector.php?c=MTY1NjAzMDUx",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Доля прибыли",
+    "link":"sector.php?c=ODM1MTY3ODc",
+    "race":"teladi",
+    "northGate":"sector.php?c=MTE1NTk4Nw",
+    "southGate":"sector.php?c=MTY1ODc3NTg3",
+    "westGate":null,
+    "eastGate":"sector.php?c=ODM3OTEzMjM"
+  },
+  {
+    "title":"Сейзвел",
+    "link":"sector.php?c=ODM3OTEzMjM",
+    "race":"teladi",
+    "northGate":"sector.php?c=MTQzMDUyMw",
+    "southGate":"sector.php?c=MTY2MTUyMTIz",
+    "westGate":"sector.php?c=ODM1MTY3ODc",
+    "eastGate":null
+  },
+  {
+    "title":"Семья Зейн",
+    "link":"sector.php?c=ODQwNjU4NTk",
+    "race":"split",
+    "northGate":"sector.php?c=MTcwNTA1OQ",
+    "southGate":"sector.php?c=MTY2NDI2NjU5",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Фортуна акционеров",
+    "link":"sector.php?c=ODU5ODc2MTE",
+    "race":"teladi",
+    "northGate":"sector.php?c=MzYyNjgxMQ",
+    "southGate":null,
+    "westGate":"sector.php?c=MTcwNTA1OQ",
+    "eastGate":"sector.php?c=ODYyNjIxNDc"
+  },
+  {
+    "title":"Шахты богатства",
+    "link":"sector.php?c=ODYyNjIxNDc",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=MTY4NjIyOTQ3",
+    "westGate":"sector.php?c=ODU5ODc2MTE",
+    "eastGate":null
+  },
+  {
+    "title":"Гетсу Фане",
+    "link":"sector.php?c=ODcwODU3NTU",
+    "race":"argon",
+    "northGate":"sector.php?c=NDcyNDk1NQ",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=ODczNjAyOTE"
+  },
+  {
+    "title":"Рай Менелайи",
+    "link":"sector.php?c=ODczNjAyOTE",
+    "race":"boron",
+    "northGate":null,
+    "southGate":"sector.php?c=MTY5NzIxMDkx",
+    "westGate":"sector.php?c=ODcwODU3NTU",
+    "eastGate":"sector.php?c=ODc2MzQ4Mjc"
+  },
+  {
+    "title":"Ксенонский сектор 597",
+    "link":"sector.php?c=ODc2MzQ4Mjc",
+    "race":"xenon",
+    "northGate":"sector.php?c=NTI3NDAyNw",
+    "southGate":null,
+    "westGate":"sector.php?c=ODczNjAyOTE",
+    "eastGate":null
+  },
+  {
+    "title":"Путеводная Звезда",
+    "link":"sector.php?c=ODc5MDkzNjM",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=MTcwMjcwMTYz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Северо-западное облако",
+    "link":"sector.php?c=MTY0Nzc5NDQz",
+    "race":"argon",
+    "northGate":"sector.php?c=ODI0MTg2NDM",
+    "southGate":"sector.php?c=MjQ3MTQwMjQz",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTY1MDUzOTc5"
+  },
+  {
+    "title":"Туманность Херрона",
+    "link":"sector.php?c=MTY1MDUzOTc5",
+    "race":"argon",
+    "northGate":"sector.php?c=ODI2OTMxNzk",
+    "southGate":"sector.php?c=MjQ3NDE0Nzc5",
+    "westGate":"sector.php?c=MTY0Nzc5NDQz",
+    "eastGate":"sector.php?c=MTY1MzI4NTE1"
+  },
+  {
+    "title":"Берлога",
+    "link":"sector.php?c=MTY1MzI4NTE1",
+    "race":"argon",
+    "northGate":"sector.php?c=ODI5Njc3MTU",
+    "southGate":"sector.php?c=MjQ3Njg5MzE1",
+    "westGate":"sector.php?c=MTY1MDUzOTc5",
+    "eastGate":"sector.php?c=MTY1NjAzMDUx"
+  },
+  {
+    "title":"Облака Атрейи",
+    "link":"sector.php?c=MTY1NjAzMDUx",
+    "race":"boron",
+    "northGate":"sector.php?c=ODMyNDIyNTE",
+    "southGate":"sector.php?c=MjQ3OTYzODUx",
+    "westGate":"sector.php?c=MTY1MzI4NTE1",
+    "eastGate":null
+  },
+  {
+    "title":"Наркотический дрейф",
+    "link":"sector.php?c=MTY1ODc3NTg3",
+    "race":"teladi",
+    "northGate":"sector.php?c=ODM1MTY3ODc",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MTY2MTUyMTIz"
+  },
+  {
+    "title":"Больший доход",
+    "link":"sector.php?c=MTY2MTUyMTIz",
+    "race":"teladi",
+    "northGate":"sector.php?c=ODM3OTEzMjM",
+    "southGate":"sector.php?c=MjQ4NTEyOTIz",
+    "westGate":"sector.php?c=MTY1ODc3NTg3",
+    "eastGate":null
+  },
+  {
+    "title":"Гордость Турука",
+    "link":"sector.php?c=MTY2NDI2NjU5",
+    "race":"split",
+    "northGate":"sector.php?c=ODQwNjU4NTk",
+    "southGate":"sector.php?c=MjQ4Nzg3NDU5",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTY2NzAxMTk1"
+  },
+  {
+    "title":"Гордость семей",
+    "link":"sector.php?c=MTY2NzAxMTk1",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=MjQ5MDYxOTk1",
+    "westGate":"sector.php?c=MTY2NDI2NjU5",
+    "eastGate":null
+  },
+  {
+    "title":"Мощь Ронкар",
+    "link":"sector.php?c=MTY2OTc1NzMx",
+    "race":"split",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MTY3MjUwMjY3"
+  },
+  {
+    "title":"Пристанище Патриарха",
+    "link":"sector.php?c=MTY3MjUwMjY3",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=MjQ5NjExMDY3",
+    "westGate":"sector.php?c=MTY2OTc1NzMx",
+    "eastGate":null
+  },
+  {
+    "title":"Родина возможности",
+    "link":"sector.php?c=MTY4NjIyOTQ3",
+    "race":"teladi",
+    "northGate":"sector.php?c=ODYyNjIxNDc",
+    "southGate":"sector.php?c=MjUwOTgzNzQ3",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Голубое пламя",
+    "link":"sector.php?c=MTY5NzIxMDkx",
+    "race":"boron",
+    "northGate":"sector.php?c=ODczNjAyOTE",
+    "southGate":"sector.php?c=MjUyMDgxODkx",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTY5OTk1NjI3"
+  },
+  {
+    "title":"Ускользающие шпили",
+    "link":"sector.php?c=MTY5OTk1NjI3",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTY5NzIxMDkx",
+    "eastGate":"sector.php?c=MTcwMjcwMTYz"
+  },
+  {
+    "title":"Родник Босса",
+    "link":"sector.php?c=MTcwMjcwMTYz",
+    "race":"teladi",
+    "northGate":"sector.php?c=ODc5MDkzNjM",
+    "southGate":null,
+    "westGate":"sector.php?c=MTY5OTk1NjI3",
+    "eastGate":"sector.php?c=MTcwNTQ0Njk5"
+  },
+  {
+    "title":"Собор Хаара",
+    "link":"sector.php?c=MTcwNTQ0Njk5",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTcwMjcwMTYz",
+    "eastGate":null
+  },
+  {
+    "title":"Луна Ринго",
+    "link":"sector.php?c=MjQ3MTQwMjQz",
+    "race":"argon",
+    "northGate":"sector.php?c=MTY0Nzc5NDQz",
+    "southGate":"sector.php?c=MzI5NTAxMDQz",
+    "westGate":null,
+    "eastGate":"sector.php?c=MjQ3NDE0Nzc5"
+  },
+  {
+    "title":"Аргон Прайм",
+    "link":"sector.php?c=MjQ3NDE0Nzc5",
+    "race":"argon",
+    "northGate":"sector.php?c=MTY1MDUzOTc5",
+    "southGate":"sector.php?c=MzI5Nzc1NTc5",
+    "westGate":"sector.php?c=MjQ3MTQwMjQz",
+    "eastGate":"sector.php?c=MjQ3Njg5MzE1"
+  },
+  {
+    "title":"Стена",
+    "link":"sector.php?c=MjQ3Njg5MzE1",
+    "race":"argon",
+    "northGate":"sector.php?c=MTY1MzI4NTE1",
+    "southGate":"sector.php?c=MzMwMDUwMTE1",
+    "westGate":"sector.php?c=MjQ3NDE0Nzc5",
+    "eastGate":null
+  },
+  {
+    "title":"Легенда Фарнема",
+    "link":"sector.php?c=MjQ3OTYzODUx",
+    "race":"pirate",
+    "northGate":"sector.php?c=MTY1NjAzMDUx",
+    "southGate":"sector.php?c=MzMwMzI0NjUx",
+    "westGate":null,
+    "eastGate":"sector.php?c=MjQ4MjM4Mzg3"
+  },
+  {
+    "title":"Радость Балы Ги",
+    "link":"sector.php?c=MjQ4MjM4Mzg3",
+    "race":"pirate",
+    "northGate":null,
+    "southGate":"sector.php?c=MzMwNTk5MTg3",
+    "westGate":"sector.php?c=MjQ3OTYzODUx",
+    "eastGate":null
+  },
+  {
+    "title":"Постоянный доход",
+    "link":"sector.php?c=MjQ4NTEyOTIz",
+    "race":"teladi",
+    "northGate":"sector.php?c=MTY2MTUyMTIz",
+    "southGate":"sector.php?c=MzMwODczNzIz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Огонь Ронкар",
+    "link":"sector.php?c=MjQ4Nzg3NDU5",
+    "race":"split",
+    "northGate":"sector.php?c=MTY2NDI2NjU5",
+    "southGate":"sector.php?c=MzMxMTQ4MjU5",
+    "westGate":null,
+    "eastGate":"sector.php?c=MjQ5MDYxOTk1"
+  },
+  {
+    "title":"Облака Ронкар",
+    "link":"sector.php?c=MjQ5MDYxOTk1",
+    "race":"split",
+    "northGate":"sector.php?c=MTY2NzAxMTk1",
+    "southGate":null,
+    "westGate":"sector.php?c=MjQ4Nzg3NDU5",
+    "eastGate":"sector.php?c=MjQ5MzM2NTMx"
+  },
+  {
+    "title":"Солнце Тарка",
+    "link":"sector.php?c=MjQ5MzM2NTMx",
+    "race":"split",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MjQ5MDYxOTk1",
+    "eastGate":"sector.php?c=MjQ5NjExMDY3"
+  },
+  {
+    "title":"Поражение Чо",
+    "link":"sector.php?c=MjQ5NjExMDY3",
+    "race":"split",
+    "northGate":"sector.php?c=MTY3MjUwMjY3",
+    "southGate":"sector.php?c=MzMxOTcxODY3",
+    "westGate":"sector.php?c=MjQ5MzM2NTMx",
+    "eastGate":null
+  },
+  {
+    "title":"Семья Ткр",
+    "link":"sector.php?c=MjUwOTgzNzQ3",
+    "race":"split",
+    "northGate":"sector.php?c=MTY4NjIyOTQ3",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MjUxMjU4Mjgz"
+  },
+  {
+    "title":"Лишение Ткр",
+    "link":"sector.php?c=MjUxMjU4Mjgz",
+    "race":"split",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MjUwOTgzNzQ3",
+    "eastGate":"sector.php?c=MjUxNTMyODE5"
+  },
+  {
+    "title":"Побег Гинн",
+    "link":"sector.php?c=MjUxNTMyODE5",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=MzMzODkzNjE5",
+    "westGate":"sector.php?c=MjUxMjU4Mjgz",
+    "eastGate":"sector.php?c=MjUxODA3MzU1"
+  },
+  {
+    "title":"Радость Хила",
+    "link":"sector.php?c=MjUxODA3MzU1",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MjUxNTMyODE5",
+    "eastGate":"sector.php?c=MjUyMDgxODkx"
+  },
+  {
+    "title":"Океан фантазии",
+    "link":"sector.php?c=MjUyMDgxODkx",
+    "race":"boron",
+    "northGate":"sector.php?c=MTY5NzIxMDkx",
+    "southGate":null,
+    "westGate":"sector.php?c=MjUxODA3MzU1",
+    "eastGate":null
+  },
+  {
+    "title":"Искривлённые небеса",
+    "link":"sector.php?c=MjUyNjMwOTYz",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=NDE3MzUyNTYz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Красное сияние",
+    "link":"sector.php?c=MzI5NTAxMDQz",
+    "race":"argon",
+    "northGate":"sector.php?c=MjQ3MTQwMjQz",
+    "southGate":"sector.php?c=NDExODYxODQz",
+    "westGate":null,
+    "eastGate":"sector.php?c=MzI5Nzc1NTc5"
+  },
+  {
+    "title":"Обитель света",
+    "link":"sector.php?c=MzI5Nzc1NTc5",
+    "race":"argon",
+    "northGate":"sector.php?c=MjQ3NDE0Nzc5",
+    "southGate":"sector.php?c=NDEyMTM2Mzc5",
+    "westGate":"sector.php?c=MzI5NTAxMDQz",
+    "eastGate":"sector.php?c=MzMwMDUwMTE1"
+  },
+  {
+    "title":"Президентский рубеж",
+    "link":"sector.php?c=MzMwMDUwMTE1",
+    "race":"argon",
+    "northGate":"sector.php?c=MjQ3Njg5MzE1",
+    "southGate":"sector.php?c=NDEyNDEwOTE1",
+    "westGate":"sector.php?c=MzI5Nzc1NTc5",
+    "eastGate":"sector.php?c=MzMwMzI0NjUx"
+  },
+  {
+    "title":"Фортуна Елены",
+    "link":"sector.php?c=MzMwMzI0NjUx",
+    "race":"argon",
+    "northGate":"sector.php?c=MjQ3OTYzODUx",
+    "southGate":"sector.php?c=NDEyNjg1NDUx",
+    "westGate":"sector.php?c=MzMwMDUwMTE1",
+    "eastGate":null
+  },
+  {
+    "title":"Договор Олманкетцлата",
+    "link":"sector.php?c=MzMwNTk5MTg3",
+    "race":"pirate",
+    "northGate":"sector.php?c=MjQ4MjM4Mzg3",
+    "southGate":"sector.php?c=NDEyOTU5OTg3",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Дух Босса",
+    "link":"sector.php?c=MzMwODczNzIz",
+    "race":"teladi",
+    "northGate":"sector.php?c=MjQ4NTEyOTIz",
+    "southGate":"sector.php?c=NDEzMjM0NTIz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Семья Ронкар",
+    "link":"sector.php?c=MzMxMTQ4MjU5",
+    "race":"split",
+    "northGate":"sector.php?c=MjQ4Nzg3NDU5",
+    "southGate":"sector.php?c=NDEzNTA5MDU5",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Цитадель Патриарха",
+    "link":"sector.php?c=MzMxOTcxODY3",
+    "race":"split",
+    "northGate":"sector.php?c=MjQ5NjExMDY3",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MzMyMjQ2NDAz"
+  },
+  {
+    "title":"Двое Великих",
+    "link":"sector.php?c=MzMyMjQ2NDAz",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=NDE0NjA3MjAz",
+    "westGate":"sector.php?c=MzMxOTcxODY3",
+    "eastGate":null
+  },
+  {
+    "title":"Гармония Вечности",
+    "link":"sector.php?c=MzMzMzQ0NTQ3",
+    "race":"goner",
+    "northGate":null,
+    "southGate":"sector.php?c=NDE1NzA1MzQ3",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Семья Ню",
+    "link":"sector.php?c=MzMzODkzNjE5",
+    "race":"split",
+    "northGate":"sector.php?c=MjUxNTMyODE5",
+    "southGate":"sector.php?c=NDE2MjU0NDE5",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Юго-западное облако",
+    "link":"sector.php?c=NDExODYxODQz",
+    "race":"argon",
+    "northGate":"sector.php?c=MzI5NTAxMDQz",
+    "southGate":"sector.php?c=NDk0MjIyNjQz",
+    "westGate":null,
+    "eastGate":"sector.php?c=NDEyMTM2Mzc5"
+  },
+  {
+    "title":"Пояс руды",
+    "link":"sector.php?c=NDEyMTM2Mzc5",
+    "race":"argon",
+    "northGate":"sector.php?c=MzI5Nzc1NTc5",
+    "southGate":null,
+    "westGate":"sector.php?c=NDExODYxODQz",
+    "eastGate":"sector.php?c=NDEyNDEwOTE1"
+  },
+  {
+    "title":"Юго-восточное облако",
+    "link":"sector.php?c=NDEyNDEwOTE1",
+    "race":"argon",
+    "northGate":"sector.php?c=MzMwMDUwMTE1",
+    "southGate":null,
+    "westGate":"sector.php?c=NDEyMTM2Mzc5",
+    "eastGate":null
+  },
+  {
+    "title":"Сплитский огонь",
+    "link":"sector.php?c=NDEyNjg1NDUx",
+    "race":"pirate",
+    "northGate":"sector.php?c=MzMwMzI0NjUx",
+    "southGate":"sector.php?c=NDk1MDQ2MjUx",
+    "westGate":null,
+    "eastGate":"sector.php?c=NDEyOTU5OTg3"
+  },
+  {
+    "title":"Триумф Бреннана",
+    "link":"sector.php?c=NDEyOTU5OTg3",
+    "race":"pirate",
+    "northGate":"sector.php?c=MzMwNTk5MTg3",
+    "southGate":"sector.php?c=NDk1MzIwNzg3",
+    "westGate":"sector.php?c=NDEyNjg1NDUx",
+    "eastGate":null
+  },
+  {
+    "title":"Гордость Корпорации",
+    "link":"sector.php?c=NDEzMjM0NTIz",
+    "race":"teladi",
+    "northGate":"sector.php?c=MzMwODczNzIz",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NDEzNTA5MDU5"
+  },
+  {
+    "title":"Борода Турука",
+    "link":"sector.php?c=NDEzNTA5MDU5",
+    "race":"split",
+    "northGate":"sector.php?c=MzMxMTQ4MjU5",
+    "southGate":"sector.php?c=NDk1ODY5ODU5",
+    "westGate":"sector.php?c=NDEzMjM0NTIz",
+    "eastGate":null
+  },
+  {
+    "title":"Центр дохода Альфа",
+    "link":"sector.php?c=NDE0NjA3MjAz",
+    "race":"teladi",
+    "northGate":"sector.php?c=MzMyMjQ2NDAz",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NDE0ODgxNzM5"
+  },
+  {
+    "title":"Штаб PTNI",
+    "link":"sector.php?c=NDE0ODgxNzM5",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=NDk3MjQyNTM5",
+    "westGate":"sector.php?c=NDE0NjA3MjAz",
+    "eastGate":"sector.php?c=NDE1MTU2Mjc1"
+  },
+  {
+    "title":"Упущенный шанс",
+    "link":"sector.php?c=NDE1MTU2Mjc1",
+    "race":"pirate",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NDE0ODgxNzM5",
+    "eastGate":null
+  },
+  {
+    "title":"Круг труда",
+    "link":"sector.php?c=NDE1NDMwODEx",
+    "race":"argon",
+    "northGate":"sector.php?c=MzMzMDcwMDEx",
+    "southGate":"sector.php?c=NDk3NzkxNjEx",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Элизиум света",
+    "link":"sector.php?c=NDE1NzA1MzQ3",
+    "race":"goner",
+    "northGate":"sector.php?c=MzMzMzQ0NTQ3",
+    "southGate":"sector.php?c=NDk4MDY2MTQ3",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Ксенонский сектор 472",
+    "link":"sector.php?c=NDE1OTc5ODgz",
+    "race":"xenon",
+    "northGate":null,
+    "southGate":"sector.php?c=NDk4MzQwNjgz",
+    "westGate":null,
+    "eastGate":"sector.php?c=NDE2MjU0NDE5"
+  },
+  {
+    "title":"Бездна Тина",
+    "link":"sector.php?c=NDE2MjU0NDE5",
+    "race":"split",
+    "northGate":"sector.php?c=MzMzODkzNjE5",
+    "southGate":null,
+    "westGate":"sector.php?c=NDE1OTc5ODgz",
+    "eastGate":null
+  },
+  {
+    "title":"Альбион дельта",
+    "link":"sector.php?c=NDE2NTI4OTU1",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=NDk4ODg5NzU1",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Владение Зирт",
+    "link":"sector.php?c=NDE3MDc4MDI3",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=NDk5NDM4ODI3",
+    "westGate":null,
+    "eastGate":"sector.php?c=NDE3MzUyNTYz"
+  },
+  {
+    "title":"Оплот Зирт",
+    "link":"sector.php?c=NDE3MzUyNTYz",
+    "race":"split",
+    "northGate":"sector.php?c=MjUyNjMwOTYz",
+    "southGate":null,
+    "westGate":"sector.php?c=NDE3MDc4MDI3",
+    "eastGate":null
+  },
+  {
+    "title":"Ксенонский сектор 695",
+    "link":"sector.php?c=NDE3NjI3MDk5",
+    "race":"xenon",
+    "northGate":null,
+    "southGate":"sector.php?c=NDk5OTg3ODk5",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Императорские шахты",
+    "link":"sector.php?c=NDk0MjIyNjQz",
+    "race":"paranid",
+    "northGate":"sector.php?c=NDExODYxODQz",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NDk0NDk3MTc5"
+  },
+  {
+    "title":"Паранид Прайм",
+    "link":"sector.php?c=NDk0NDk3MTc5",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":"sector.php?c=NTc2ODU3OTc5",
+    "westGate":"sector.php?c=NDk0MjIyNjQz",
+    "eastGate":"sector.php?c=NDk0NzcxNzE1"
+  },
+  {
+    "title":"Кольца жреца",
+    "link":"sector.php?c=NDk0NzcxNzE1",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":"sector.php?c=NTc3MTMyNTE1",
+    "westGate":"sector.php?c=NDk0NDk3MTc5",
+    "eastGate":"sector.php?c=NDk1MDQ2MjUx"
+  },
+  {
+    "title":"Жалость жреца",
+    "link":"sector.php?c=NDk1MDQ2MjUx",
+    "race":"paranid",
+    "northGate":"sector.php?c=NDEyNjg1NDUx",
+    "southGate":"sector.php?c=NTc3NDA3MDUx",
+    "westGate":"sector.php?c=NDk0NzcxNzE1",
+    "eastGate":null
+  },
+  {
+    "title":"Шанс Данны",
+    "link":"sector.php?c=NDk1MzIwNzg3",
+    "race":"pirate",
+    "northGate":"sector.php?c=NDEyOTU5OTg3",
+    "southGate":"sector.php?c=NTc3NjgxNTg3",
+    "westGate":null,
+    "eastGate":"sector.php?c=NDk1NTk1MzIz"
+  },
+  {
+    "title":"Мемориал Нопилео",
+    "link":"sector.php?c=NDk1NTk1MzIz",
+    "race":"pirate",
+    "northGate":null,
+    "southGate":"sector.php?c=NTc3OTU2MTIz",
+    "westGate":"sector.php?c=NDk1MzIwNzg3",
+    "eastGate":"sector.php?c=NDk1ODY5ODU5"
+  },
+  {
+    "title":"Вера Хатикваха",
+    "link":"sector.php?c=NDk1ODY5ODU5",
+    "race":"pirate",
+    "northGate":"sector.php?c=NDEzNTA5MDU5",
+    "southGate":"sector.php?c=OTA3NjczODU5",
+    "westGate":"sector.php?c=NDk1NTk1MzIz",
+    "eastGate":"sector.php?c=NDk2MTQ0Mzk1"
+  },
+  {
+    "title":"Холм Аладны",
+    "link":"sector.php?c=NDk2MTQ0Mzk1",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=NTc4NTA1MTk1",
+    "westGate":"sector.php?c=NDk1ODY5ODU5",
+    "eastGate":"sector.php?c=NDk2NDE4OTMx"
+  },
+  {
+    "title":"Маяк Акилы",
+    "link":"sector.php?c=NDk2NDE4OTMx",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=NTc4Nzc5NzMx",
+    "westGate":"sector.php?c=NDk2MTQ0Mzk1",
+    "eastGate":null
+  },
+  {
+    "title":"Зеленая чешуйка",
+    "link":"sector.php?c=NDk3MjQyNTM5",
+    "race":"teladi",
+    "northGate":"sector.php?c=NDE0ODgxNzM5",
+    "southGate":"sector.php?c=NTc5NjAzMzM5",
+    "westGate":null,
+    "eastGate":"sector.php?c=NDk3NTE3MDc1"
+  },
+  {
+    "title":"Убежище Наяны",
+    "link":"sector.php?c=NDk3NTE3MDc1",
+    "race":"argon",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NDk3MjQyNTM5",
+    "eastGate":"sector.php?c=NDk3NzkxNjEx"
+  },
+  {
+    "title":"Омикрон Лиры",
+    "link":"sector.php?c=NDk3NzkxNjEx",
+    "race":"argon",
+    "northGate":"sector.php?c=NDE1NDMwODEx",
+    "southGate":null,
+    "westGate":"sector.php?c=NDk3NTE3MDc1",
+    "eastGate":"sector.php?c=NDk4MDY2MTQ3"
+  },
+  {
+    "title":"Сундук сокровищ",
+    "link":"sector.php?c=NDk4MDY2MTQ3",
+    "race":"argon",
+    "northGate":"sector.php?c=NDE1NzA1MzQ3",
+    "southGate":null,
+    "westGate":"sector.php?c=NDk3NzkxNjEx",
+    "eastGate":"sector.php?c=NDk4MzQwNjgz"
+  },
+  {
+    "title":"Черное солнце",
+    "link":"sector.php?c=NDk4MzQwNjgz",
+    "race":"argon",
+    "northGate":"sector.php?c=NDE1OTc5ODgz",
+    "southGate":"sector.php?c=NTgwNzAxNDgz",
+    "westGate":"sector.php?c=NDk4MDY2MTQ3",
+    "eastGate":null
+  },
+  {
+    "title":"Альбион альфа",
+    "link":"sector.php?c=NDk4NjE1MjE5",
+    "race":"argon",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NDk4ODg5NzU1"
+  },
+  {
+    "title":"Альбион бета",
+    "link":"sector.php?c=NDk4ODg5NzU1",
+    "race":"argon",
+    "northGate":"sector.php?c=NDE2NTI4OTU1",
+    "southGate":null,
+    "westGate":"sector.php?c=NDk4NjE1MjE5",
+    "eastGate":"sector.php?c=NDk5MTY0Mjkx"
+  },
+  {
+    "title":"Альбион гамма",
+    "link":"sector.php?c=NDk5MTY0Mjkx",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=NTgxNTI1MDkx",
+    "westGate":"sector.php?c=NDk4ODg5NzU1",
+    "eastGate":null
+  },
+  {
+    "title":"Ксенонский сектор 598",
+    "link":"sector.php?c=NDk5NDM4ODI3",
+    "race":"xenon",
+    "northGate":"sector.php?c=NDE3MDc4MDI3",
+    "southGate":"sector.php?c=NTgxNzk5NjI3",
+    "westGate":null,
+    "eastGate":"sector.php?c=NDk5NzEzMzYz"
+  },
+  {
+    "title":"Ксенонский сектор 627",
+    "link":"sector.php?c=NDk5NzEzMzYz",
+    "race":"xenon",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NDk5NDM4ODI3",
+    "eastGate":"sector.php?c=NDk5OTg3ODk5"
+  },
+  {
+    "title":"Ксенонское ядро 023",
+    "link":"sector.php?c=NDk5OTg3ODk5",
+    "race":"xenon",
+    "northGate":"sector.php?c=NDE3NjI3MDk5",
+    "southGate":"sector.php?c=ODI4MzMyOTU1",
+    "westGate":"sector.php?c=NDk5NzEzMzYz",
+    "eastGate":null
+  },
+  {
+    "title":"Шпора дикаря",
+    "link":"sector.php?c=NTc2NTgzNDQz",
+    "race":"unclaimed",
+    "northGate":null,
+    "southGate":"sector.php?c=NjU4OTQ0MjQz",
+    "westGate":null,
+    "eastGate":"sector.php?c=NTc2ODU3OTc5"
+  },
+  {
+    "title":"Граница Империи",
+    "link":"sector.php?c=NTc2ODU3OTc5",
+    "race":"paranid",
+    "northGate":"sector.php?c=NDk0NDk3MTc5",
+    "southGate":"sector.php?c=NjU5MjE4Nzc5",
+    "westGate":"sector.php?c=NTc2NTgzNDQz",
+    "eastGate":"sector.php?c=NTc3MTMyNTE1"
+  },
+  {
+    "title":"Владения герцога",
+    "link":"sector.php?c=NTc3MTMyNTE1",
+    "race":"paranid",
+    "northGate":"sector.php?c=NDk0NzcxNzE1",
+    "southGate":null,
+    "westGate":"sector.php?c=NTc2ODU3OTc5",
+    "eastGate":"sector.php?c=NTc3NDA3MDUx"
+  },
+  {
+    "title":"Императорский отрог",
+    "link":"sector.php?c=NTc3NDA3MDUx",
+    "race":"paranid",
+    "northGate":"sector.php?c=NDk1MDQ2MjUx",
+    "southGate":"sector.php?c=NjU5NzY3ODUx",
+    "westGate":"sector.php?c=NTc3MTMyNTE1",
+    "eastGate":null
+  },
+  {
+    "title":"Свободный удел",
+    "link":"sector.php?c=NTc3NjgxNTg3",
+    "race":"unclaimed",
+    "northGate":"sector.php?c=NDk1MzIwNzg3",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Ксенонский сектор 101",
+    "link":"sector.php?c=NTc3OTU2MTIz",
+    "race":"xenon",
+    "northGate":"sector.php?c=NDk1NTk1MzIz",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Свет сердца",
+    "link":"sector.php?c=NTc4NTA1MTk1",
+    "race":"argon",
+    "northGate":"sector.php?c=NDk2MTQ0Mzk1",
+    "southGate":"sector.php?c=NjYwODY1OTk1",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Обитель легенды",
+    "link":"sector.php?c=NTc4Nzc5NzMx",
+    "race":"argon",
+    "northGate":"sector.php?c=NDk2NDE4OTMx",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NTc5MDU0MjY3"
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=NTc5MDU0MjY3",
+    "race":"unclaimed",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NTc4Nzc5NzMx",
+    "eastGate":null
+  },
+  {
+    "title":"Восемнадцать миллиардов",
+    "link":"sector.php?c=NTc5MzI4ODAz",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=NjYxNjg5NjAz",
+    "westGate":null,
+    "eastGate":"sector.php?c=NTc5NjAzMzM5"
+  },
+  {
+    "title":"Ксенонский сектор 347",
+    "link":"sector.php?c=NTc5NjAzMzM5",
+    "race":"xenon",
+    "northGate":"sector.php?c=NDk3MjQyNTM5",
+    "southGate":null,
+    "westGate":"sector.php?c=NTc5MzI4ODAz",
+    "eastGate":null
+  },
+  {
+    "title":"Немеркнущий свет",
+    "link":"sector.php?c=NTgwNDI2OTQ3",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=NjYyNzg3NzQ3",
+    "westGate":null,
+    "eastGate":"sector.php?c=NTgwNzAxNDgz"
+  },
+  {
+    "title":"Путешествие Натана",
+    "link":"sector.php?c=NTgwNzAxNDgz",
+    "race":"argon",
+    "northGate":"sector.php?c=NDk4MzQwNjgz",
+    "southGate":null,
+    "westGate":"sector.php?c=NTgwNDI2OTQ3",
+    "eastGate":"sector.php?c=NTgwOTc2MDE5"
+  },
+  {
+    "title":"Пустоши",
+    "link":"sector.php?c=NTgwOTc2MDE5",
+    "race":"argon",
+    "northGate":null,
+    "southGate":"sector.php?c=NjYzMzM2ODE5",
+    "westGate":"sector.php?c=NTgwNzAxNDgz",
+    "eastGate":"sector.php?c=NTgxMjUwNTU1"
+  },
+  {
+    "title":"Полночная звезда",
+    "link":"sector.php?c=NTgxMjUwNTU1",
+    "race":"argon",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NTgwOTc2MDE5",
+    "eastGate":"sector.php?c=NTgxNTI1MDkx"
+  },
+  {
+    "title":"Пояс Агиляр",
+    "link":"sector.php?c=NTgxNTI1MDkx",
+    "race":"argon",
+    "northGate":"sector.php?c=NDk5MTY0Mjkx",
+    "southGate":null,
+    "westGate":"sector.php?c=NTgxMjUwNTU1",
+    "eastGate":"sector.php?c=NTgxNzk5NjI3"
+  },
+  {
+    "title":"Большая биржа",
+    "link":"sector.php?c=NTgxNzk5NjI3",
+    "race":"teladi",
+    "northGate":"sector.php?c=NDk5NDM4ODI3",
+    "southGate":"sector.php?c=NjY0MTYwNDI3",
+    "westGate":"sector.php?c=NTgxNTI1MDkx",
+    "eastGate":"sector.php?c=NTgyMDc0MTYz"
+  },
+  {
+    "title":"Слёзы скупости",
+    "link":"sector.php?c=NTgyMDc0MTYz",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=OTkzMzI5MDkx",
+    "westGate":"sector.php?c=NTgxNzk5NjI3",
+    "eastGate":null
+  },
+  {
+    "title":"Буря Окракока",
+    "link":"sector.php?c=NjU4OTQ0MjQz",
+    "race":"yaki",
+    "northGate":"sector.php?c=NTc2NTgzNDQz",
+    "southGate":"sector.php?c=NzQxMzA1MDQz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Пустошь проповедников",
+    "link":"sector.php?c=NjU5MjE4Nzc5",
+    "race":"paranid",
+    "northGate":"sector.php?c=NTc2ODU3OTc5",
+    "southGate":"sector.php?c=NzQxNTc5NTc5",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Царство Понтифика",
+    "link":"sector.php?c=NjU5NzY3ODUx",
+    "race":"paranid",
+    "northGate":"sector.php?c=NTc3NDA3MDUx",
+    "southGate":"sector.php?c=NzQyMTI4NjUx",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Легкая вода",
+    "link":"sector.php?c=NjYwMzE2OTIz",
+    "race":"boron",
+    "northGate":null,
+    "southGate":"sector.php?c=NzQyNjc3NzIz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Монталаар",
+    "link":"sector.php?c=NjYwODY1OTk1",
+    "race":"argon",
+    "northGate":"sector.php?c=NTc4NTA1MTk1",
+    "southGate":"sector.php?c=NzQzMjI2Nzk1",
+    "westGate":null,
+    "eastGate":"sector.php?c=NjYxMTQwNTMx"
+  },
+  {
+    "title":"Стяжательство",
+    "link":"sector.php?c=NjYxMTQwNTMx",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NjYwODY1OTk1",
+    "eastGate":"sector.php?c=NjYxNDE1MDY3"
+  },
+  {
+    "title":"Новый доход",
+    "link":"sector.php?c=NjYxNDE1MDY3",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=NzQzNzc1ODY3",
+    "westGate":"sector.php?c=NjYxMTQwNTMx",
+    "eastGate":"sector.php?c=NjYxNjg5NjAz"
+  },
+  {
+    "title":"Ианамус Зура",
+    "link":"sector.php?c=NjYxNjg5NjAz",
+    "race":"teladi",
+    "northGate":"sector.php?c=NTc5MzI4ODAz",
+    "southGate":null,
+    "westGate":"sector.php?c=NjYxNDE1MDY3",
+    "eastGate":"sector.php?c=NjYxOTY0MTM5"
+  },
+  {
+    "title":"Рассуждение о вечности",
+    "link":"sector.php?c=NjYxOTY0MTM5",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=NzQ0MzI0OTM5",
+    "westGate":"sector.php?c=NjYxNjg5NjAz",
+    "eastGate":null
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=NjYyNTEzMjEx",
+    "race":"unclaimed",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Аргонский сектор М148",
+    "link":"sector.php?c=NjYyNzg3NzQ3",
+    "race":"argon",
+    "northGate":"sector.php?c=NTgwNDI2OTQ3",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Меж миров",
+    "link":"sector.php?c=NjYzMzM2ODE5",
+    "race":"argon",
+    "northGate":"sector.php?c=NTgwOTc2MDE5",
+    "southGate":"sector.php?c=MTA3MzQ5MzYwMw",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Приют торговца",
+    "link":"sector.php?c=NjY0MTYwNDI3",
+    "race":"teladi",
+    "northGate":"sector.php?c=NTgxNzk5NjI3",
+    "southGate":"sector.php?c=NzQ2NTIxMjI3",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Пустоши сенатора",
+    "link":"sector.php?c=NzQxMzA1MDQz",
+    "race":"yaki",
+    "northGate":"sector.php?c=NjU4OTQ0MjQz",
+    "southGate":"sector.php?c=ODIzNjY1ODQz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Видение герцога",
+    "link":"sector.php?c=NzQxNTc5NTc5",
+    "race":"paranid",
+    "northGate":"sector.php?c=NjU5MjE4Nzc5",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NzQxODU0MTE1"
+  },
+  {
+    "title":"Мудрость Императора",
+    "link":"sector.php?c=NzQxODU0MTE1",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NzQxNTc5NTc5",
+    "eastGate":"sector.php?c=NzQyMTI4NjUx"
+  },
+  {
+    "title":"Святилище Троицы",
+    "link":"sector.php?c=NzQyMTI4NjUx",
+    "race":"paranid",
+    "northGate":"sector.php?c=NjU5NzY3ODUx",
+    "southGate":"sector.php?c=ODI0NDg5NDUx",
+    "westGate":"sector.php?c=NzQxODU0MTE1",
+    "eastGate":"sector.php?c=NzQyNDAzMTg3"
+  },
+  {
+    "title":"Приют проповедника",
+    "link":"sector.php?c=NzQyNDAzMTg3",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NzQyMTI4NjUx",
+    "eastGate":"sector.php?c=NzQyNjc3NzIz"
+  },
+  {
+    "title":"Берег бесконечности",
+    "link":"sector.php?c=NzQyNjc3NzIz",
+    "race":"boron",
+    "northGate":"sector.php?c=NjYwMzE2OTIz",
+    "southGate":null,
+    "westGate":"sector.php?c=NzQyNDAzMTg3",
+    "eastGate":"sector.php?c=NzQyOTUyMjU5"
+  },
+  {
+    "title":"Планеты удачи",
+    "link":"sector.php?c=NzQyOTUyMjU5",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NzQyNjc3NzIz",
+    "eastGate":"sector.php?c=NzQzMjI2Nzk1"
+  },
+  {
+    "title":"Наследие Ролка",
+    "link":"sector.php?c=NzQzMjI2Nzk1",
+    "race":"boron",
+    "northGate":"sector.php?c=NjYwODY1OTk1",
+    "southGate":"sector.php?c=ODI1NTg3NTk1",
+    "westGate":"sector.php?c=NzQyOTUyMjU5",
+    "eastGate":"sector.php?c=NzQzNTAxMzMx"
+  },
+  {
+    "title":"Великий каньон",
+    "link":"sector.php?c=NzQzNTAxMzMx",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=NzQzMjI2Nzk1",
+    "eastGate":"sector.php?c=NzQzNzc1ODY3"
+  },
+  {
+    "title":"Сомнение Босса",
+    "link":"sector.php?c=NzQzNzc1ODY3",
+    "race":"teladi",
+    "northGate":"sector.php?c=NjYxNDE1MDY3",
+    "southGate":"sector.php?c=ODI2MTM2NjY3",
+    "westGate":"sector.php?c=NzQzNTAxMzMx",
+    "eastGate":null
+  },
+  {
+    "title":"Склад добычи",
+    "link":"sector.php?c=NzQ0MzI0OTM5",
+    "race":"pirate",
+    "northGate":"sector.php?c=NjYxOTY0MTM5",
+    "southGate":"sector.php?c=ODI2Njg1NzM5",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Альтес",
+    "link":"sector.php?c=NzQ1NDIzMDgz",
+    "race":"terran",
+    "northGate":"sector.php?c=ODQ4ODk0Njc",
+    "southGate":"sector.php?c=ODI3NzgzODgz",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Звезда Гайи",
+    "link":"sector.php?c=NzQ1OTcyMTU1",
+    "race":"pirate",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=NzQ2MjQ2Njkx"
+  },
+  {
+    "title":"Ссора наёмников",
+    "link":"sector.php?c=NzQ2MjQ2Njkx",
+    "race":"pirate",
+    "northGate":null,
+    "southGate":"sector.php?c=ODI4NjA3NDkx",
+    "westGate":"sector.php?c=NzQ1OTcyMTU1",
+    "eastGate":"sector.php?c=NzQ2NTIxMjI3"
+  },
+  {
+    "title":"Мальстрим",
+    "link":"sector.php?c=NzQ2NTIxMjI3",
+    "race":"pirate",
+    "northGate":"sector.php?c=NjY0MTYwNDI3",
+    "southGate":null,
+    "westGate":"sector.php?c=NzQ2MjQ2Njkx",
+    "eastGate":null
+  },
+  {
+    "title":"Буря пряхи",
+    "link":"sector.php?c=ODIzNjY1ODQz",
+    "race":"yaki",
+    "northGate":"sector.php?c=NzQxMzA1MDQz",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Безнадежный долг",
+    "link":"sector.php?c=ODI0NDg5NDUx",
+    "race":"teladi",
+    "northGate":"sector.php?c=NzQyMTI4NjUx",
+    "southGate":"sector.php?c=OTA2ODUwMjUx",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Крестовый поход Ганна",
+    "link":"sector.php?c=ODI1NTg3NTk1",
+    "race":"pirate",
+    "northGate":"sector.php?c=NzQzMjI2Nzk1",
+    "southGate":"sector.php?c=OTA3OTQ4Mzk1",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Наследие ЛуМанчкСтрата",
+    "link":"sector.php?c=ODI2MTM2NjY3",
+    "race":"pirate",
+    "northGate":"sector.php?c=NzQzNzc1ODY3",
+    "southGate":"sector.php?c=OTA4NDk3NDY3",
+    "westGate":null,
+    "eastGate":"sector.php?c=ODI2Njg1NzM5"
+  },
+  {
+    "title":"Роща космотравки",
+    "link":"sector.php?c=ODI2Njg1NzM5",
+    "race":"pirate",
+    "northGate":"sector.php?c=NzQ0MzI0OTM5",
+    "southGate":null,
+    "westGate":"sector.php?c=ODI2MTM2NjY3",
+    "eastGate":null
+  },
+  {
+    "title":"Альдрин",
+    "link":"sector.php?c=ODI3MjM0ODEx",
+    "race":"terran",
+    "northGate":"sector.php?c=ODI3MjM0ODEx",
+    "southGate":"sector.php?c=ODI3NTA5MzQ3",
+    "westGate":"sector.php?c=ODI3MjM0ODEx",
+    "eastGate":"sector.php?c=ODI3NTA5MzQ3"
+  },
+  {
+    "title":"Альдрин 2",
+    "link":"sector.php?c=ODI3NTA5MzQ3",
+    "race":"terran",
+    "northGate":null,
+    "southGate":"sector.php?c=ODI3MjM0ODEx",
+    "westGate":"sector.php?c=ODI3MjM0ODEx",
+    "eastGate":"sector.php?c=ODI3NzgzODgz"
+  },
+  {
+    "title":"Мегнир",
+    "link":"sector.php?c=ODI3NzgzODgz",
+    "race":"terran",
+    "northGate":"sector.php?c=NzQ1NDIzMDgz",
+    "southGate":null,
+    "westGate":"sector.php?c=ODI3NTA5MzQ3",
+    "eastGate":"sector.php?c=ODI4MDU4NDE5"
+  },
+  {
+    "title":"Сегарис",
+    "link":"sector.php?c=ODI4MDU4NDE5",
+    "race":"terran",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=ODI3NzgzODgz",
+    "eastGate":"sector.php?c=ODI4MzMyOTU1"
+  },
+  {
+    "title":"Ксенонский сектор",
+    "link":"sector.php?c=ODI4MzMyOTU1",
+    "race":"xenon",
+    "northGate":"sector.php?c=NDk5OTg3ODk5",
+    "southGate":"sector.php?c=OTEwNjkzNzU1",
+    "westGate":"sector.php?c=ODI4MDU4NDE5",
+    "eastGate":null
+  },
+  {
+    "title":"Потерянный заказ",
+    "link":"sector.php?c=ODI4NjA3NDkx",
+    "race":"pirate",
+    "northGate":"sector.php?c=NzQ2MjQ2Njkx",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Крестовый поход Рай",
+    "link":"sector.php?c=OTA2MzAxMTc5",
+    "race":"split",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=OTA2NTc1NzE1"
+  },
+  {
+    "title":"Желание Рай",
+    "link":"sector.php?c=OTA2NTc1NzE1",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=OTg4OTM2NTE1",
+    "westGate":"sector.php?c=OTA2MzAxMTc5",
+    "eastGate":"sector.php?c=OTA2ODUwMjUx"
+  },
+  {
+    "title":"Министерство финансов",
+    "link":"sector.php?c=OTA2ODUwMjUx",
+    "race":"teladi",
+    "northGate":"sector.php?c=ODI0NDg5NDUx",
+    "southGate":null,
+    "westGate":"sector.php?c=OTA2NTc1NzE1",
+    "eastGate":null
+  },
+  {
+    "title":"Суд Ронкар",
+    "link":"sector.php?c=OTA3MTI0Nzg3",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=OTg5NDg1NTg3",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=OTA3Mzk5MzIz",
+    "race":"unclaimed",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=OTA3NjczODU5"
+  },
+  {
+    "title":"Конец ясности",
+    "link":"sector.php?c=OTA3NjczODU5",
+    "race":"paranid",
+    "northGate":"sector.php?c=NDk1ODY5ODU5",
+    "southGate":null,
+    "westGate":"sector.php?c=OTA3Mzk5MzIz",
+    "eastGate":"sector.php?c=OTA3OTQ4Mzk1"
+  },
+  {
+    "title":"Третье возвращение",
+    "link":"sector.php?c=OTA3OTQ4Mzk1",
+    "race":"paranid",
+    "northGate":"sector.php?c=ODI1NTg3NTk1",
+    "southGate":null,
+    "westGate":"sector.php?c=OTA3NjczODU5",
+    "eastGate":"sector.php?c=OTA4MjIyOTMx"
+  },
+  {
+    "title":"Конец проклятия",
+    "link":"sector.php?c=OTA4MjIyOTMx",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":"sector.php?c=OTkwNTgzNzMx",
+    "westGate":"sector.php?c=OTA3OTQ4Mzk1",
+    "eastGate":null
+  },
+  {
+    "title":"Убежище Ми Тона",
+    "link":"sector.php?c=OTA4NDk3NDY3",
+    "race":"pirate",
+    "northGate":"sector.php?c=ODI2MTM2NjY3",
+    "southGate":"sector.php?c=OTkwODU4MjY3",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=OTEwNjkzNzU1",
+    "race":"unclaimed",
+    "northGate":"sector.php?c=ODI4MzMyOTU1",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Семья Рай",
+    "link":"sector.php?c=OTg4OTM2NTE1",
+    "race":"split",
+    "northGate":"sector.php?c=OTA2NTc1NzE1",
+    "southGate":"sector.php?c=MTA3MTI5NzMxNQ",
+    "westGate":null,
+    "eastGate":"sector.php?c=OTg5MjExMDUx"
+  },
+  {
+    "title":"Дряхлые небеса",
+    "link":"sector.php?c=OTg5MjExMDUx",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=MTA3MTU3MTg1MQ",
+    "westGate":"sector.php?c=OTg4OTM2NTE1",
+    "eastGate":"sector.php?c=OTg5NDg1NTg3"
+  },
+  {
+    "title":"Мель",
+    "link":"sector.php?c=OTg5NDg1NTg3",
+    "race":"split",
+    "northGate":"sector.php?c=OTA3MTI0Nzg3",
+    "southGate":null,
+    "westGate":"sector.php?c=OTg5MjExMDUx",
+    "eastGate":null
+  },
+  {
+    "title":"Осквернённые небеса",
+    "link":"sector.php?c=OTkwNTgzNzMx",
+    "race":"pirate",
+    "northGate":"sector.php?c=OTA4MjIyOTMx",
+    "southGate":"sector.php?c=MTA3Mjk0NDUzMQ",
+    "westGate":null,
+    "eastGate":"sector.php?c=OTkwODU4MjY3"
+  },
+  {
+    "title":"Месть Ру-Кая",
+    "link":"sector.php?c=OTkwODU4MjY3",
+    "race":"pirate",
+    "northGate":"sector.php?c=OTA4NDk3NDY3",
+    "southGate":"sector.php?c=MTA3MzIxOTA2Nw",
+    "westGate":"sector.php?c=OTkwNTgzNzMx",
+    "eastGate":null
+  },
+  {
+    "title":"Вечный грех",
+    "link":"sector.php?c=OTkxNjgxODc1",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":"sector.php?c=MTE1NjEyODkzOQ",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Яркая прибыль",
+    "link":"sector.php?c=OTkzMzI5MDkx",
+    "race":"teladi",
+    "northGate":"sector.php?c=NTgyMDc0MTYz",
+    "southGate":"sector.php?c=MTA3NTY4OTg5MQ",
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Глубина молчания",
+    "link":"sector.php?c=MTA3MDc0ODI0Mw",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MTA3MTAyMjc3OQ"
+  },
+  {
+    "title":"Темные воды",
+    "link":"sector.php?c=MTA3MTAyMjc3OQ",
+    "race":"boron",
+    "northGate":null,
+    "southGate":"sector.php?c=MTE1MzM4MzU3OQ",
+    "westGate":"sector.php?c=MTA3MDc0ODI0Mw",
+    "eastGate":"sector.php?c=MTA3MTI5NzMxNQ"
+  },
+  {
+    "title":"Запас спокойствия",
+    "link":"sector.php?c=MTA3MTI5NzMxNQ",
+    "race":"boron",
+    "northGate":"sector.php?c=OTg4OTM2NTE1",
+    "southGate":"sector.php?c=MTE1MzY1ODExNQ",
+    "westGate":"sector.php?c=MTA3MTAyMjc3OQ",
+    "eastGate":"sector.php?c=MTA3MTU3MTg1MQ"
+  },
+  {
+    "title":"Пустынные берега",
+    "link":"sector.php?c=MTA3MTU3MTg1MQ",
+    "race":"boron",
+    "northGate":"sector.php?c=OTg5MjExMDUx",
+    "southGate":null,
+    "westGate":"sector.php?c=MTA3MTI5NzMxNQ",
+    "eastGate":"sector.php?c=MTA3Mjk0NDUzMQ"
+  },
+  {
+    "title":"Убежище жреца",
+    "link":"sector.php?c=MTA3Mjk0NDUzMQ",
+    "race":"paranid",
+    "northGate":"sector.php?c=OTkwNTgzNzMx",
+    "southGate":"sector.php?c=MTE1NTMwNTMzMQ",
+    "westGate":"sector.php?c=MTA3MTU3MTg1MQ",
+    "eastGate":"sector.php?c=MTA3MzIxOTA2Nw"
+  },
+  {
+    "title":"Владение Кардинала",
+    "link":"sector.php?c=MTA3MzIxOTA2Nw",
+    "race":"paranid",
+    "northGate":"sector.php?c=OTkwODU4MjY3",
+    "southGate":"sector.php?c=MTE1NTU3OTg2Nw",
+    "westGate":"sector.php?c=MTA3Mjk0NDUzMQ",
+    "eastGate":"sector.php?c=MTA3MzQ5MzYwMw"
+  },
+  {
+    "title":"Священная реликвия",
+    "link":"sector.php?c=MTA3MzQ5MzYwMw",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":"sector.php?c=MTE1NTg1NDQwMw",
+    "westGate":"sector.php?c=MTA3MzIxOTA2Nw",
+    "eastGate":"sector.php?c=NjYzMzM2ODE5"
+  },
+  {
+    "title":"Святилище коррупции",
+    "link":"sector.php?c=MTA3NTQxNTM1NQ",
+    "race":"teladi",
+    "northGate":null,
+    "southGate":"sector.php?c=MTE1Nzc3NjE1NQ",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTA3NTY4OTg5MQ"
+  },
+  {
+    "title":"Сила компании",
+    "link":"sector.php?c=MTA3NTY4OTg5MQ",
+    "race":"teladi",
+    "northGate":"sector.php?c=OTkzMzI5MDkx",
+    "southGate":null,
+    "westGate":"sector.php?c=MTA3NTQxNTM1NQ",
+    "eastGate":null
+  },
+  {
+    "title":"Сияющие течения",
+    "link":"sector.php?c=MTE1MzM4MzU3OQ",
+    "race":"boron",
+    "northGate":"sector.php?c=MTA3MTAyMjc3OQ",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MTE1MzY1ODExNQ"
+  },
+  {
+    "title":"Великий риф",
+    "link":"sector.php?c=MTE1MzY1ODExNQ",
+    "race":"boron",
+    "northGate":"sector.php?c=MTA3MTI5NzMxNQ",
+    "southGate":"sector.php?c=MTIzNjAxODkxNQ",
+    "westGate":"sector.php?c=MTE1MzM4MzU3OQ",
+    "eastGate":null
+  },
+  {
+    "title":"Источник веры",
+    "link":"sector.php?c=MTE1NTMwNTMzMQ",
+    "race":"paranid",
+    "northGate":"sector.php?c=MTA3Mjk0NDUzMQ",
+    "southGate":"sector.php?c=MTIzNzY2NjEzMQ",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTE1NTU3OTg2Nw"
+  },
+  {
+    "title":"Пристанище монаха",
+    "link":"sector.php?c=MTE1NTU3OTg2Nw",
+    "race":"paranid",
+    "northGate":"sector.php?c=MTA3MzIxOTA2Nw",
+    "southGate":"sector.php?c=MTIzNzk0MDY2Nw",
+    "westGate":"sector.php?c=MTE1NTMwNTMzMQ",
+    "eastGate":"sector.php?c=MTE1NTg1NDQwMw"
+  },
+  {
+    "title":"Уединение Понтифика",
+    "link":"sector.php?c=MTE1NTg1NDQwMw",
+    "race":"paranid",
+    "northGate":"sector.php?c=MTA3MzQ5MzYwMw",
+    "southGate":"sector.php?c=MTIzODIxNTIwMw",
+    "westGate":"sector.php?c=MTE1NTU3OTg2Nw",
+    "eastGate":"sector.php?c=MTE1NjEyODkzOQ"
+  },
+  {
+    "title":"Цитадель герцога",
+    "link":"sector.php?c=MTE1NjEyODkzOQ",
+    "race":"paranid",
+    "northGate":"sector.php?c=OTkxNjgxODc1",
+    "southGate":null,
+    "westGate":"sector.php?c=MTE1NTg1NDQwMw",
+    "eastGate":null
+  },
+  {
+    "title":"Возмездие Королевы",
+    "link":"sector.php?c=MTE1Nzc3NjE1NQ",
+    "race":"boron",
+    "northGate":"sector.php?c=MTA3NTQxNTM1NQ",
+    "southGate":"sector.php?c=MTI0MDEzNjk1NQ",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTE1ODA1MDY5MQ"
+  },
+  {
+    "title":"Пустая бесконечность",
+    "link":"sector.php?c=MTE1ODA1MDY5MQ",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTE1Nzc3NjE1NQ",
+    "eastGate":null
+  },
+  {
+    "title":"Туманы Элизиума",
+    "link":"sector.php?c=MTIzNjAxODkxNQ",
+    "race":"boron",
+    "northGate":"sector.php?c=MTE1MzY1ODExNQ",
+    "southGate":"sector.php?c=MTMxODM3OTcxNQ",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTIzNjI5MzQ1MQ"
+  },
+  {
+    "title":"Тихий прилив",
+    "link":"sector.php?c=MTIzNjI5MzQ1MQ",
+    "race":"boron",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTIzNjAxODkxNQ",
+    "eastGate":null
+  },
+  {
+    "title":"Гордость Императора",
+    "link":"sector.php?c=MTIzNzM5MTU5NQ",
+    "race":"paranid",
+    "northGate":null,
+    "southGate":"sector.php?c=MTMxOTc1MjM5NQ",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTIzNzY2NjEzMQ"
+  },
+  {
+    "title":"Низвержение безбожника",
+    "link":"sector.php?c=MTIzNzY2NjEzMQ",
+    "race":"paranid",
+    "northGate":"sector.php?c=MTE1NTMwNTMzMQ",
+    "southGate":null,
+    "westGate":"sector.php?c=MTIzNzM5MTU5NQ",
+    "eastGate":"sector.php?c=MTIzNzk0MDY2Nw"
+  },
+  {
+    "title":"Священный огонь",
+    "link":"sector.php?c=MTIzNzk0MDY2Nw",
+    "race":"paranid",
+    "northGate":"sector.php?c=MTE1NTU3OTg2Nw",
+    "southGate":null,
+    "westGate":"sector.php?c=MTIzNzY2NjEzMQ",
+    "eastGate":null
+  },
+  {
+    "title":"Небесная защита",
+    "link":"sector.php?c=MTIzODIxNTIwMw",
+    "race":"paranid",
+    "northGate":"sector.php?c=MTE1NTg1NDQwMw",
+    "southGate":"sector.php?c=MTMyMDU3NjAwMw",
+    "westGate":null,
+    "eastGate":"sector.php?c=MTIzOTMxMzM0Nw"
+  },
+  {
+    "title":"Заговор Патриарха",
+    "link":"sector.php?c=MTIzOTMxMzM0Nw",
+    "race":"split",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTIzODIxNTIwMw",
+    "eastGate":"sector.php?c=MTIzOTU4Nzg4Mw"
+  },
+  {
+    "title":"Искаженное владение",
+    "link":"sector.php?c=MTIzOTU4Nzg4Mw",
+    "race":"split",
+    "northGate":null,
+    "southGate":"sector.php?c=MTMyMTk0ODY4Mw",
+    "westGate":"sector.php?c=MTIzOTMxMzM0Nw",
+    "eastGate":"sector.php?c=MTIzOTg2MjQxOQ"
+  },
+  {
+    "title":"Угасшие мечты",
+    "link":"sector.php?c=MTIzOTg2MjQxOQ",
+    "race":"boron",
+    "northGate":null,
+    "southGate":"sector.php?c=MTMyMjIyMzIxOQ",
+    "westGate":"sector.php?c=MTIzOTU4Nzg4Mw",
+    "eastGate":"sector.php?c=MTI0MDEzNjk1NQ"
+  },
+  {
+    "title":"Гавань королевы",
+    "link":"sector.php?c=MTI0MDEzNjk1NQ",
+    "race":"boron",
+    "northGate":"sector.php?c=MTE1Nzc3NjE1NQ",
+    "southGate":null,
+    "westGate":"sector.php?c=MTIzOTg2MjQxOQ",
+    "eastGate":"sector.php?c=MTI0MDQxMTQ5MQ"
+  },
+  {
+    "title":"Оазис Менелайи",
+    "link":"sector.php?c=MTI0MDQxMTQ5MQ",
+    "race":"boron",
+    "northGate":null,
+    "southGate":"sector.php?c=MTMyMjc3MjI5MQ",
+    "westGate":"sector.php?c=MTI0MDEzNjk1NQ",
+    "eastGate":null
+  },
+  {
+    "title":"Преддверие творения",
+    "link":"sector.php?c=MTMxODM3OTcxNQ",
+    "race":"pirate",
+    "northGate":"sector.php?c=MTIzNjAxODkxNQ",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Скрытые владения",
+    "link":"sector.php?c=MTMxOTc1MjM5NQ",
+    "race":"paranid",
+    "northGate":"sector.php?c=MTIzNzM5MTU5NQ",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":"sector.php?c=MTMyMDAyNjkzMQ"
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=MTMyMDAyNjkzMQ",
+    "race":"unclaimed",
+    "northGate":null,
+    "southGate":null,
+    "westGate":"sector.php?c=MTMxOTc1MjM5NQ",
+    "eastGate":null
+  },
+  {
+    "title":"Затянувшаяся месть",
+    "link":"sector.php?c=MTMyMDU3NjAwMw",
+    "race":"pirate",
+    "northGate":"sector.php?c=MTIzODIxNTIwMw",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Раскопки Тина",
+    "link":"sector.php?c=MTMyMTk0ODY4Mw",
+    "race":"split",
+    "northGate":"sector.php?c=MTIzOTU4Nzg4Mw",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Покров обмана",
+    "link":"sector.php?c=MTMyMjIyMzIxOQ",
+    "race":"pirate",
+    "northGate":"sector.php?c=MTIzOTg2MjQxOQ",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Далёкие облака",
+    "link":"sector.php?c=MTMyMjc3MjI5MQ",
+    "race":"boron",
+    "northGate":"sector.php?c=MTI0MDQxMTQ5MQ",
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  },
+  {
+    "title":"Неизвестный сектор",
+    "link":"sector.php?c=MTU3MTIyNzM3MQ",
+    "race":"unclaimed",
+    "northGate":null,
+    "southGate":null,
+    "westGate":null,
+    "eastGate":null
+  }
+]
